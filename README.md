@@ -1,2 +1,3 @@
 # webMusic-Player
-fully functional spotify clone.its a  web music streaming service writtten in OOP php.
+Spotify clone.
+- its a music streaming app writen in HTML,CSS, javascript/jquery and php.
